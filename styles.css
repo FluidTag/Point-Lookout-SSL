@@ -1,0 +1,78 @@
+body {
+    background-color: #abc3cb;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.sourcelink {
+    text-align: center;
+}
+
+.historylist {
+    width: 50%;
+    margin: auto;
+    background-color: #9fb9c1;
+}
+
+.historylist * {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.examplelist{
+    width: 55%;
+    margin: auto;
+    background-color: #9fb9c1;
+}
+
+.examplelist * {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.exampleimg {
+    width: 40%;
+}
+
+.prisonimg {
+    width: 30%;
+    height: 40%;
+}
+
+h1 {
+    text-align: center;
+    color: #F1EEDC;
+}
+
+h2 {
+    text-align: center;
+    color: #F1EEDC;
+}
+
+h3 {
+    text-align: center;
+    color: #F1EEDC;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    color: #eadfbe;
+    stroke: black;
+}
+
+li {
+    color: #E5DDC5;
+}
+
+ul {
+    text-align: center;
+}
+
